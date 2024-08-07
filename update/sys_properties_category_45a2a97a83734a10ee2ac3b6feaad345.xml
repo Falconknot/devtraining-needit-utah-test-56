@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 10:39:14</sys_created_on>
+        <sys_id>45a2a97a83734a10ee2ac3b6feaad345</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_45a2a97a83734a10ee2ac3b6feaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 10:58:37</sys_updated_on>
+        <title><![CDATA[<p style="font-size: 18pt; color: blue;"><span style="font-size: 18pt;">J</span> <span style="font-size: 20pt;">e</span> <span style="font-size: 22pt;">g</span> <span style="font-size: 86pt;"> </span> <span style="font-size: 26pt;">l</span> <span style="font-size: 28pt;">i</span> <span style="font-size: 30pt;">k</span> <span style="font-size: 32pt;">e</span> <span style="font-size: 34pt;">r</span> <span style="font-size: 86pt;"> </span> <span style="font-size: 38pt;">b</span> <span style="font-size: 40pt;">ø</span> <span style="font-size: 42pt;">n</span> <span style="font-size: 44pt;">n</span> <span style="font-size: 46pt;">e</span> <span style="font-size: 48pt;">r</span></p>
+<p style="font-size: 24pt; color: red;"><span style="font-size: 24pt;">m</span> <span style="font-size: 26pt;">e</span> <span style="font-size: 28pt;">n</span> <span style="font-size: 86pt;"> </span> <span style="font-size: 32pt;">i</span> <span style="font-size: 34pt;">k</span> <span style="font-size: 36pt;">k</span> <span style="font-size: 38pt;">e</span> <span style="font-size: 86pt;"> </span> <span style="font-size: 42pt;">s</span> <span style="font-size: 44pt;">o</span> <span style="font-size: 46pt;">y</span> <span style="font-size: 48pt;">a</span> <span style="font-size: 86pt;"> </span> <span style="font-size: 52pt;">b</span> <span style="font-size: 54pt;">ø</span> <span style="font-size: 56pt;">n</span> <span style="font-size: 58pt;">n</span> <span style="font-size: 60pt;">e</span> <span style="font-size: 62pt;">r</span> <span style="font-size: 64pt;">.</span> <span style="font-size: 86pt;"> </span> <span style="font-size: 68pt;">d</span> <span style="font-size: 70pt;">e</span> <span style="font-size: 86pt;"> </span> <span style="font-size: 74pt;">s</span> <span style="font-size: 76pt;">m</span> <span style="font-size: 78pt;">a</span> <span style="font-size: 80pt;">k</span> <span style="font-size: 82pt;">e</span> <span style="font-size: 84pt;">r</span> <span style="font-size: 86pt;"> </span> <span style="font-size: 88pt;">u</span> <span style="font-size: 90pt;">a</span> <span style="font-size: 92pt;">k</span> <span style="font-size: 94pt;">s</span> <span style="font-size: 96pt;">e</span> <span style="font-size: 98pt;">p</span> <span style="font-size: 100pt;">t</span> <span style="font-size: 102pt;">a</span> <span style="font-size: 104pt;">b</span> <span style="font-size: 106pt;">e</span> <span style="font-size: 108pt;">l</span> <span style="font-size: 110pt;">t</span> <span style="font-size: 112pt;">.</span></p>
+<p style="font-size: 14pt; color: green;"><img title="Soyabønner" src="/sys_attachment.do?sys_id&#61;8803697a83734a10ee2ac3b6feaad343" alt="Bilde av soyabønner" width="312" height="312" /></p>
+<div style="font-family: Impact;">MongoDB</div>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=45a2a97a83734a10ee2ac3b6feaad345"/>
+</record_update>
